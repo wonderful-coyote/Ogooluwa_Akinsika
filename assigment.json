@@ -1,0 +1,16 @@
+[
+    {
+        "Clipboard": {
+            "onCopy": "lorenm loraem lorem",
+            "onCut": "lorem lorem lorem",
+            "onPaste": "lorem lorem lorem"
+        }
+    },
+    {
+        "Composition":{
+            "onCompositionEnd": "lorem lorem lorem",
+            "onCompositionStart": "lorem lorem lorem",
+            "onCompositionUpdate": "lorem lorem lorem"
+        }
+    }
+]
