@@ -1,0 +1,96 @@
+{
+  "Clipboard": {
+    "onCopy": "The onCopy event is fired when the user initiates a copy operation to transfer data to the clipboard.",
+    "onCut": "The onCut event is fired when the user initiates a cut operation to remove data from the document and transfer it to the clipboard.",
+    "onPaste": "The onPaste event is fired when the user initiates a paste operation to insert data from the clipboard into the document."
+  },
+  "Composition": {
+    "onCompositionEnd": "The onCompositionEnd event is fired when the user has finished composing a sequence of characters.",
+    "onCompositionStart": "The onCompositionStart event is fired when the user starts composing a sequence of characters.",
+    "onCompositionUpdate": "The onCompositionUpdate event is fired when the user is actively composing a sequence of characters."
+  },
+  "Keyboard": {
+    "onKeyDown": "The onKeyDown event is fired when a key is pressed down.",
+    "onKeyPress": "The onKeyPress event is fired when a key that produces a character value is pressed down.",
+    "onKeyUp": "The onKeyUp event is fired when a key is released."
+  },
+  "Focus": {
+    "onFocus": "The onFocus event is fired when an element becomes the focus of user input.",
+    "onBlur": "The onBlur event is fired when an element loses the focus of user input."
+  },
+  "Form": {
+    "onChange": "The onChange event is fired when the value of an input element is changed.",
+    "onInput": "The onInput event is fired when the value of an input element is changed by the user or by a script.",
+    "onSubmit": "The onSubmit event is fired when a form is submitted."
+  },
+  "Mouse": {
+    "onClick": "The onClick event is fired when a mouse button is clicked.",
+    "onContextMenu": "The onContextMenu event is fired when a context menu is triggered by the user.",
+    "onDoubleClick": "The onDoubleClick event is fired when a mouse button is double-clicked.",
+    "onDrag": "The onDrag event is fired when an element is being dragged.",
+    "onDragEnd": "The onDragEnd event is fired when a drag operation is being ended.",
+    "onDragEnter": "The onDragEnter event is fired when a dragged element enters a drop target.",
+    "onDragExit": "The onDragExit event is fired when a dragged element leaves a drop target.",
+    "onDragLeave": "The onDragLeave event is fired when a dragged element leaves a drop target.",
+    "onDragOver": "The onDragOver event is fired when an element is being dragged over a drop target.",
+    "onDragStart": "The onDragStart event is fired when a drag operation is being started.",
+    "onDrop": "The onDrop event is fired when a dragged element is dropped on a drop target.",
+    "onMouseDown": "The onMouseDown event is fired when a mouse button is pressed down over an element.",
+    "onMouseEnter": "The onMouseEnter event is fired when the mouse enters an element.",
+    "onMouseLeave": "The onMouseLeave event is fired when the mouse leaves an element.",
+    "onMouseMove": "The onMouseMove event is fired when the mouse is moved over an element.",
+    "onMouseOut": "The onMouseOut event is fired when the mouse leaves an element.",
+    "onMouseOver": "The onMouseOver event is fired when the mouse is moved over an element.",
+    "onMouseUp": "The onMouseUp event is fired when a mouse button is released over an element."
+  },
+  "Selection": {
+    "onSelect": "Fires when the user selects some text."
+  },
+  "Touch": {
+    "onTouchCancel": "Fires when a touch event is interrupted or cancelled.",
+    "onTouchEnd": "Fires when a touch event is lifted from the touch surface.",
+    "onTouchMove": "Fires when a touch point is moved along the touch surface.",
+    "onTouchStart": "Fires when a touch point is placed on the touch surface."
+  },
+  "UI": {
+    "onScroll": "Fires when an element's scrollbar is being scrolled.",
+    "onWheel": "Fires when the mouse wheel is rolled over an element."
+  },
+  "Media": {
+    "onAbort": "Fires when the loading of media is aborted.",
+    "onCanPlay": "Fires when the browser can start playing the media.",
+    "onCanPlayThrough": "Fires when the browser can play through the media without stopping.",
+    "onDurationChange": "Fires when the duration of the media is updated.",
+    "onEmptied": "Fires when the media element is emptied.",
+    "onEncrypted": "Fires when the media is encrypted.",
+    "onEnded": "Fires when the media has reached the end.",
+    "onError": "Fires when an error occurs while loading or playing the media.",
+    "onLoadedData": "Fires when media data is loaded.",
+    "onLoadedMetadata": "Fires when the metadata for the media is loaded.",
+    "onLoadStart": "Fires when the browser starts loading the media data.",
+    "onPause": "Fires when the media is paused.",
+    "onPlay": "Fires when the media starts playing.",
+    "onPlaying": "Fires when the media starts playing after being paused or stopped.",
+    "onProgress": "Fires when the browser is fetching the media data.",
+    "onRateChange": "Fires when the playback rate of the media is changed.",
+    "onSeeked": "Fires when the media has been seeked to a new position.",
+    "onSeeking": "Fires when the media is in the process of seeking to a new position.",
+    "onStalled": "Fires when the browser is trying to get media data but data is not available.",
+    "onSuspend": "Fires when the loading of media is suspended.",
+    "onTimeUpdate": "Fires when the current playback position of the media changes.",
+    "onVolumeChange": "Fires when the volume of the media is changed.",
+    "onWaiting": "Fires when the media has stopped because it needs to buffer more data."
+  },
+  "Image": {
+    "onLoad": "Fires when the image is loaded.",
+    "onError": "Fires when an error occurs while loading the image."
+  },
+  "Animation": {
+    "onAnimationStart": "Fires when an animation starts.",
+    "onAnimationEnd": "Fires when an animation ends.",
+    "ocnAnimationIteration": "Fires when an animation repeats."
+  },
+  "Transition": {
+    "onTransitionEnd": "Fires when a CSS transition ends."
+  }
+}
